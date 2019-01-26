@@ -1,5 +1,7 @@
 (2019-01-26) v1.8.2
 THIS GITHUB THREAD IS NO LONGER ACTIVE...
+Visit: GitHub:			https://github.com/phoenix125/7dtdServerUpdateUtility
+
 - PROGRAM RENAMED from 7dtdServerUtility to 7dtdServerUpdateUtility to better reflect the function of this utility.
 
 ----------------
